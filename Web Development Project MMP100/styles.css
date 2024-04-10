@@ -1,0 +1,23 @@
+body{background-color: #57385c;
+    font-family:"helvetica";
+    margin: 3em;
+    text-align: center;}
+h1{color:#febe7e;
+    font-size: 5em;
+    font-family:"helvetica";
+    text-align: center;
+    margin:0 auto;}
+h2{color:#ec7263;
+    padding:2em;}
+a{text-decoration: none;
+    color:#6643b5;}
+
+li a{color: #a75265;}
+#external link{color: #d5def5;}
+.credits{font-size: 0.5em;}
+img{
+    display:inline-block
+        margin: 0 auto;}
+
+p {color:#febe7e;
+    font-family:
